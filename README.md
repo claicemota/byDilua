@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**ClaiceMota/ClaiceMota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <di> Olá, aqui é a Claice Mota! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudante de Análises e Desenvolvimento de Sistemas, meu foco atualmente está sendo em Database, Cybersecurity e AWS. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+##
+
+
+**Programming Languages**
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="claice-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  ##
+  **Libraries and Frameworks**
+
+
+<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
+
+##
+**Infrastructure**
+
+<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
+
+##
+**Databases**
+
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
+
+##
+**Tools**
+
+<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
+<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
