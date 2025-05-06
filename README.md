@@ -27,7 +27,7 @@ Estudante de Análises e Desenvolvimento de Sistemas.<img src="https://media.gip
 ##
 **Infrastructure**
 
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
+<img  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
 ##
 **Databases**
